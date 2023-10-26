@@ -1,9 +1,8 @@
 const router = require('express').Router();
 const path = require('path');
+const { sendNotesHtml } = require("../../controllers");
 
-router.get("/", (req, res) => {
-    res.sendFile(path.resolve(__dirname +  "../../../public/notes.html"));
- });
+router.get("/", sendNotesHtml);
 
 
 module.exports = router;
