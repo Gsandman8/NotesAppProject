@@ -13,3 +13,5 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 This app is used by first travelling to the note page from the landing page by clicking the "Get Started" button. Once on the note page, you can travel to preexisting notes by clicking on them. You can create a new note by clicking the plus button in the top right hand corner; once you've filled out the title and text field of the note, a save button will appear next to the plus button, saving the note and adding it to the preexisting onces on the left column.
 
 ## Website
+This website is deployed at:
+https://intense-temple-25673-439393cd8211.herokuapp.com/
