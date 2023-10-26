@@ -13,6 +13,7 @@
   "keywords": ["heroku"],
   "dependencies": {
     "express": "^4.16.4",
-    "uuid": "^9.0.1"
+    "uuid": "^9.0.1",
+    "node": "^18.18.0"
   }
 }
