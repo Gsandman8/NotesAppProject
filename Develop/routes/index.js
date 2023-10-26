@@ -6,7 +6,7 @@ router.use("/api", apiRoutes);
 router.use("/notes", notesRoutes);
 
 router.get("/", (req, res) => {
-    
+    res.sendFile((__dirname + "../../public/index.html"));
 });
 
 
